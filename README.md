@@ -1,6 +1,7 @@
 # Customer-Support-Tickets-Analysis
 
 I have prepared a project in which I analyze customer support tickets in relation to CSAT - a topic I know inside out, as I have worked customer support for a little over two years. I am currently changing my career to Data Analysis, as data is something I have a natural flow working with. I have an eagle eye, which allows me to catch every slightest detail - nothing escapes my notice. I have recently started learning Python and used it with the pandas library for analyzing the reports. Then I put the data in interactive charts in Power BI.
+The data was downloaded from Kaggle.
 
 Here is the analysis and interpretations:
 
