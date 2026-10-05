@@ -54,4 +54,4 @@ Zero missing data across all columns;
 CSAT correlates more with resolution time (-0.39) than response time (-0.12);
 Resolution time drops with priority (Urgent: 11.5h → Low: 21.4h), but CSAT barely changes across priority levels;
 Shipping has the lowest average CSAT by category; Account the highest;
-Billing and Technical Issue tickets are 100% negative sentiment in this dataset 
+Billing, Shipping and Technical Issue tickets are 100% negative sentiment in this dataset 
