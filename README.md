@@ -19,9 +19,9 @@ I checked the average satisfaction within each category group separately, but th
 
 Resolution time by priority behaves sensibly:
 
-Urgent: 11.5 hours
-High: 12.6 hours
-Medium: 15.6 hours
+Urgent: 11.5 hours,
+High: 12.6 hours,
+Medium: 15.6 hours,
 Low: 21.4 hours
 
 This shows that the support system is doing what it should - urgent tickets get resolved fastest, and low-priority tickets wait longest.
