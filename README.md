@@ -39,7 +39,7 @@ Feedback is the only category with any Positive sentiment.
 
 Since this is a synthetic dataset, it is possible that artificially generated data has categories with no variation sentiment-wise.
 
-Just to be sure, I checked one of the rows to display a list of all sentiment values found in its context. The result confirmed that certain ticket categories show no sentiment variation at all in this data.
+To confirm, I filtered the dataset to Billing tickets only and checked which sentiment values appeared among them. The result confirmed that certain ticket categories show no sentiment variation at all in this data.
 
 The spread of CSAT across channel is small (3.31 to 3.33), so channel doesn't appear to meaningfully drive satisfaction on its own.
 
