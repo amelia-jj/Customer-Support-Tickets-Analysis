@@ -1,7 +1,9 @@
 # Customer-Support-Tickets-Analysis
 
-I have prepared a project in which I analyze customer support tickets in relation to CSAT - a topic I know inside out, as I have worked customer support for a little over two years. I am currently changing my career to Data Analysis, as data is something I have a natural flow working with. I have an eagle eye, which allows me to catch every slightest detail - nothing escapes my notice. I have recently started learning Python and used it with the pandas library for analyzing the reports. Then I put the data in interactive charts in Power BI.
-The data was downloaded from Kaggle.
+An analysis of a 20,000-ticket customer support dataset, examining what actually influences customer satisfaction (CSAT) - response time, resolution time, priority, category, and sentiment. Drawing on my background of over two years in customer support, I focused on questions I know matter in practice, rather than just those that are easy to measure.
+
+Tools: Python (pandas) for analysis, Power BI for an interactive dashboard, and a dataset sourced from Kaggle.
+
 
 Here is the analysis and interpretations:
 
