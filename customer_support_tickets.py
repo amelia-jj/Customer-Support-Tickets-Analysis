@@ -1,7 +1,7 @@
 import pandas as pd
 pd.set_option('display.max_rows', None)
 
-df = pd.read_csv(r'C:\Users\amadv\python-p\customer_support_tickets.csv')
+df = pd.read_csv('customer_support_tickets.csv')
 
 print(df.shape)
 print(df.head())
